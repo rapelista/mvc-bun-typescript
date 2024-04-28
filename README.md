@@ -15,7 +15,7 @@ bun run dev
 To build:
 
 ```bash
-bun build app.ts --outdir dist --target bun
+bun run build
 ```
 
 This project was created using:
