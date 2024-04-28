@@ -1,5 +1,11 @@
 # MVC 🤓
 
+Copy/rename `.env.example` to `.env`:
+
+```bash
+cp .env.example .env
+```
+
 To install dependencies:
 
 ```bash
